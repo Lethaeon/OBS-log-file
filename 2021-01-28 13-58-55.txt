@@ -1,0 +1,342 @@
+13:58:55.616: CPU Name: Intel(R) Core(TM) i5-4570T CPU @ 2.90GHz
+13:58:55.616: CPU Speed: 2893MHz
+13:58:55.616: Physical Cores: 2, Logical Cores: 4
+13:58:55.617: Physical Memory: 8147MB Total, 3491MB Free
+13:58:55.617: Windows Version: 10.0 Build 19042 (release: 2009; revision: 746; 64-bit)
+13:58:55.617: Running as administrator: false
+13:58:55.617: Aero is Enabled (Aero is always on for windows 8 and above)
+13:58:55.617: Windows 10 Gaming Features:
+13:58:55.617: 	Game DVR: On
+13:58:55.619: Sec. Software Status:
+13:58:55.620: 	Kaspersky Security Cloud: enabled (AV)
+13:58:55.621: 	Microsoft Defender Antivirus: disabled (AV)
+13:58:55.621: 	Kaspersky Security Cloud: disabled (FW)
+13:58:55.621: 	Windows Firewall: enabled (FW)
+13:58:55.622: Current Date/Time: 2021-01-28, 13:58:55
+13:58:55.622: Browser Hardware Acceleration: true
+13:58:55.622: Portable mode: false
+13:58:56.049: OBS 26.1.1 (64-bit, windows)
+13:58:56.049: ---------------------------------
+13:58:56.050: ---------------------------------
+13:58:56.050: audio settings reset:
+13:58:56.050: 	samples per sec: 48000
+13:58:56.050: 	speakers:        2
+13:58:56.053: ---------------------------------
+13:58:56.053: Initializing D3D11...
+13:58:56.053: Available Video Adapters: 
+13:58:56.057: 	Adapter 0: Radeon RX 570 Series
+13:58:56.058: 	  Dedicated VRAM: 4273823744
+13:58:56.058: 	  Shared VRAM:    4271790080
+13:58:56.058: 	  PCI ID:         1002:67df
+13:58:56.058: 	  Driver Version: 27.20.14501.28009
+13:58:56.058: 	  output 0: pos={0, 0}, size={1366, 768}, attached=true, refresh=60, name=LED-TV
+13:58:56.060: Loading up D3D11 on adapter Radeon RX 570 Series (0)
+13:58:56.108: D3D11 loaded successfully, feature level used: b000
+13:58:56.108: DXGI increase maximum frame latency success
+13:58:56.108: D3D11 GPU priority setup failed (not admin?)
+13:58:56.691: ---------------------------------
+13:58:56.691: video settings reset:
+13:58:56.691: 	base resolution:   1366x768
+13:58:56.691: 	output resolution: 1920x1080
+13:58:56.691: 	downscale filter:  Area
+13:58:56.691: 	fps:               30/1
+13:58:56.691: 	format:            NV12
+13:58:56.691: 	YUV mode:          709/Partial
+13:58:56.691: NV12 texture support enabled
+13:58:56.693: Audio monitoring device:
+13:58:56.693: 	name: Default
+13:58:56.693: 	id: default
+13:58:56.698: ---------------------------------
+13:58:56.706: [CoreAudio encoder]: CoreAudio AAC encoder not installed on the system or couldn't be loaded
+13:58:56.708: Failed to load 'en-US' text for module: 'decklink-captions.dll'
+13:58:56.710: Failed to load 'en-US' text for module: 'decklink-ouput-ui.dll'
+13:58:57.015: [AMF] Version 2.7.0 loaded (Compiled: 1.4.14.0, Runtime: 1.4.18.0, Library: 1;4;18;0;20.45.01.14;202012040649;CL#2216542).
+13:58:57.072: [AMF] <Id: 1> Unable to set converter transfer characteristic, error AMF_NOT_FOUND (code 11)
+13:58:57.135: [AMF] <Id: 2> Unable to set converter transfer characteristic, error AMF_NOT_FOUND (code 11)
+13:58:57.148: [AMF] [Capability Manager] Testing Direct3D 11 Adapter 'Radeon RX 570 Series (VEN_1002/DEV_67df/SUB_23041458/REV_00ef)':
+13:58:57.148:   H264/AVC: Supported
+13:58:57.148:   H265/HEVC: Supported
+13:58:57.148: 
+13:58:57.184: [obs-browser]: Version 2.9.1
+13:58:57.184: [obs-browser]: CEF Version 75.1.16+g16a67c4+chromium-75.0.3770.100
+13:58:57.429: VLC found, VLC video source enabled
+13:58:57.446: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+13:58:57.447: No blackmagic support
+13:58:57.459: ---------------------------------
+13:58:57.459:   Loaded Modules:
+13:58:57.459:     win-wasapi.dll
+13:58:57.459:     win-mf.dll
+13:58:57.459:     win-dshow.dll
+13:58:57.459:     win-decklink.dll
+13:58:57.459:     win-capture.dll
+13:58:57.459:     vlc-video.dll
+13:58:57.459:     text-freetype2.dll
+13:58:57.459:     rtmp-services.dll
+13:58:57.459:     obs-x264.dll
+13:58:57.459:     obs-vst.dll
+13:58:57.459:     obs-transitions.dll
+13:58:57.459:     obs-text.dll
+13:58:57.459:     obs-qsv11.dll
+13:58:57.459:     obs-outputs.dll
+13:58:57.460:     obs-filters.dll
+13:58:57.460:     obs-ffmpeg.dll
+13:58:57.460:     obs-browser.dll
+13:58:57.460:     image-source.dll
+13:58:57.460:     frontend-tools.dll
+13:58:57.460:     enc-amf.dll
+13:58:57.460:     decklink-ouput-ui.dll
+13:58:57.460:     decklink-captions.dll
+13:58:57.460:     coreaudio-encoder.dll
+13:58:57.460: ---------------------------------
+13:58:57.460: ==== Startup complete ===============================================
+13:58:57.469: All scene data cleared
+13:58:57.473: ------------------------------------------------
+13:58:57.609: WASAPI: Device 'Speakers (Realtek High Definition Audio)' [48000 Hz] initialized
+13:58:57.609: [Loaded global audio device]: 'Desktop Audio'
+13:58:57.649: WASAPI: Device '4 - LED-TV (AMD High Definition Audio Device)' [48000 Hz] initialized
+13:58:57.649: [Loaded global audio device]: 'TV output (poor) not working'
+13:58:57.732: WASAPI: Device 'Microphone (Realtek High Definition Audio)' [48000 Hz] initialized
+13:58:57.732: [Loaded global audio device]: 'Mic/Aux'
+13:58:57.758: WASAPI: Device '4 - LED-TV (AMD High Definition Audio Device)' [48000 Hz] initialized
+13:58:57.773: adding 42 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Mic/Aux)
+13:58:57.773: 
+13:58:57.781: WASAPI: Device 'Microphone (HD Web Camera)' [16000 Hz] initialized
+13:58:57.781: [duplicator-monitor-capture: 'Display Capture 2'] update settings:
+13:58:57.781: 	display: 1 (1366x768)
+13:58:57.781: 	cursor: true
+13:58:57.781: [duplicator-monitor-capture: 'Display Capture'] update settings:
+13:58:57.781: 	display: 1 (1366x768)
+13:58:57.781: 	cursor: true
+13:58:57.782: [WASAPISource::WASAPISource] Device '{0.0.0.00000000}.{69b240d2-aad3-4d7d-9c7f-9fabcf93affe}' not found.  Waiting for device
+13:58:57.783: Switched to scene 'Scene'
+13:58:57.783: ------------------------------------------------
+13:58:57.783: Loaded scenes:
+13:58:57.783: - scene 'Scene':
+13:58:57.783:     - source: 'TV output (poor)' (wasapi_output_capture)
+13:58:57.783:     - source: 'Display Capture' (monitor_capture)
+13:58:57.783:     - source: 'Display Capture 2' (monitor_capture)
+13:58:57.783:     - source: 'Audio Input Capture 2' (wasapi_input_capture)
+13:58:57.783:     - source: 'Audio Output Capture (TV)' (wasapi_output_capture)
+13:58:57.783: ------------------------------------------------
+13:59:03.621: [AMF] <Id: 3> Unable to set converter transfer characteristic, error AMF_NOT_FOUND (code 11)
+13:59:04.253: [AMF] [H265]<Id: 3> Encoder Parameters:
+13:59:04.254: [AMF] [H265]<Id: 3>   Backend:
+13:59:04.254: [AMF] [H265]<Id: 3>     Video API: Direct3D 11
+13:59:04.254: [AMF] [H265]<Id: 3>     Video Adapter: Radeon RX 570 Series (VEN_1002/DEV_67df/SUB_23041458/REV_00ef)
+13:59:04.254: [AMF] [H265]<Id: 3>     OpenCL: Not Supported
+13:59:04.254: [AMF] [H265]<Id: 3>       Transfer: Disabled
+13:59:04.254: [AMF] [H265]<Id: 3>       Conversion: Disabled
+13:59:04.254: [AMF] [H265]<Id: 3>     Multi-Threading: Disabled
+13:59:04.254: [AMF] [H265]<Id: 3>     Queue Size: 8
+13:59:04.254: [AMF] [H265]<Id: 3>   Frame:
+13:59:04.254: [AMF] [H265]<Id: 3>     Format: NV12 709 Partial
+13:59:04.254: [AMF] [H265]<Id: 3>     Resolution: 1920x1080
+13:59:04.254: [AMF] [H265]<Id: 3>     Frame Rate: 30/1
+13:59:04.254: [AMF] [H265]<Id: 3>     Aspect Ratio: 1:1
+13:59:04.254: [AMF] [H265]<Id: 3>   Static:
+13:59:04.254: [AMF] [H265]<Id: 3>     Usage: Transcoding
+13:59:04.254: [AMF] [H265]<Id: 3>     Quality Preset: Balanced
+13:59:04.254: [AMF] [H265]<Id: 3>     Profile: Main 4.0
+13:59:04.254: [AMF] [H265]<Id: 3>     Tier: Main
+13:59:04.254: [AMF] [H265]<Id: 3>     Coding Type: Automatic
+13:59:04.254: [AMF] [H265]<Id: 3>     Max. Reference Frames: 1
+13:59:04.254: [AMF] [H265]<Id: 3>     Max. Long-Term Reference Frames: 0
+13:59:04.254: [AMF] [H265]<Id: 3>   Rate Control:
+13:59:04.254: [AMF] [H265]<Id: 3>     Method: Constant Bitrate
+13:59:04.254: [AMF] [H265]<Id: 3>     Pre-Pass Mode: Disabled
+13:59:04.254: [AMF] [H265]<Id: 3>     QP:
+13:59:04.254: [AMF] [H265]<Id: 3>       Ranges:
+13:59:04.254: [AMF] [H265]<Id: 3>         I-Frame: 18 - 51
+13:59:04.254: [AMF] [H265]<Id: 3>         P-Frame: 18 - 51
+13:59:04.254: [AMF] [H265]<Id: 3>       Fixed:
+13:59:04.254: [AMF] [H265]<Id: 3>         I-Frame: 26
+13:59:04.254: [AMF] [H265]<Id: 3>         P-Frame: 26
+13:59:04.254: [AMF] [H265]<Id: 3>     Bitrate:
+13:59:04.254: [AMF] [H265]<Id: 3>       Target: 3500000 bit/s
+13:59:04.254: [AMF] [H265]<Id: 3>       Peak: 3500000 bit/s
+13:59:04.254: [AMF] [H265]<Id: 3>     Flags:
+13:59:04.254: [AMF] [H265]<Id: 3>       Filler Data: Enabled
+13:59:04.254: [AMF] [H265]<Id: 3>       Frame Skipping: Disabled
+13:59:04.254: [AMF] [H265]<Id: 3>         Period: 0 Frames
+13:59:04.254: [AMF] [H265]<Id: 3>         Behaviour: Skip every Nth frame
+13:59:04.254: [AMF] [H265]<Id: 3>       Variance Based Adaptive Quantization: Disabled
+13:59:04.254: [AMF] [H265]<Id: 3>       Enforce Hypothetical Reference Decoder: Enabled
+13:59:04.254: [AMF] [H265]<Id: 3>     Video Buffering Verfier:
+13:59:04.254: [AMF] [H265]<Id: 3>       Buffer Size: 20000000 bits
+13:59:04.254: [AMF] [H265]<Id: 3>       Initial Fullness: 100 %
+13:59:04.254: [AMF] [H265]<Id: 3>     Max. Access Unit Size: 0
+13:59:04.254: [AMF] [H265]<Id: 3>   Picture Control:
+13:59:04.254: [AMF] [H265]<Id: 3>     Period:
+13:59:04.254: [AMF] [H265]<Id: 3>       IDR: 2 GOPs
+13:59:04.254: [AMF] [H265]<Id: 3>       I: 0 Frames
+13:59:04.254: [AMF] [H265]<Id: 3>       P: 0 Frames
+13:59:04.254: [AMF] [H265]<Id: 3>       B: 0 Frames
+13:59:04.254: [AMF] [H265]<Id: 3>     GOP:
+13:59:04.254: [AMF] [H265]<Id: 3>       Type: Fixed
+13:59:04.254: [AMF] [H265]<Id: 3>       Size: 30
+13:59:04.254: [AMF] [H265]<Id: 3>       Size Range: 0 - 16
+13:59:04.254: [AMF] [H265]<Id: 3>       Alignment: Enabled
+13:59:04.254: [AMF] [H265]<Id: 3>     Deblocking Filter: Enabled
+13:59:04.254: [AMF] [H265]<Id: 3>     Motion Estimation: Quarter, Half
+13:59:04.254: [AMF] [H265]<Id: 3>   Experimental:
+13:59:04.254: [AMF] [H265]<Id: 3>     Input Queue: 16
+13:59:04.254: ---------------------------------
+13:59:04.254: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: 3
+13:59:04.254: 
+13:59:04.273: ==== Recording Start ===============================================
+13:59:04.273: [ffmpeg muxer: 'adv_file_output'] Writing file 'D:/Captures/2021-01-28 13-59-03.mkv'...
+13:59:04.600: [AMF] <Id: 3> Initial Frame Latency is 255083300 nanoseconds.
+13:59:09.472: [rtmp-services plugin] Remote update of URL "https://obsproject.com/obs2_update/rtmp-services/package.json" failed: Could not resolve host: obsproject.com
+13:59:09.474: WhatsNewInfoThread::run: Failed to fetch whatsnew file: Could not resolve host: obsproject.com
+13:59:09.474: AutoUpdateThread::run: Failed to fetch manifest file: Could not resolve host: obsproject.com
+14:53:23.807: [ffmpeg muxer: 'adv_file_output'] Output of file 'D:/Captures/2021-01-28 13-59-03.mkv' stopped
+14:53:23.807: Output 'adv_file_output': stopping
+14:53:23.807: Output 'adv_file_output': Total frames output: 97736
+14:53:23.807: Output 'adv_file_output': Total drawn frames: 97768 (97786 attempted)
+14:53:23.807: Output 'adv_file_output': Number of lagged frames due to rendering lag/stalls: 18 (0.0%)
+14:53:23.808: ==== Recording Stop ================================================
+14:53:23.808: Video stopped, number of skipped frames due to encoding lag: 26/97785 (0.0%)
+14:53:29.520: [AMF] <Id: 4> Unable to set converter transfer characteristic, error AMF_NOT_FOUND (code 11)
+14:53:29.581: [AMF] <Id: 5> Unable to set converter transfer characteristic, error AMF_NOT_FOUND (code 11)
+14:53:43.865: ---------------------------------
+14:53:43.865: video settings reset:
+14:53:43.865: 	base resolution:   1920x1080
+14:53:43.865: 	output resolution: 1920x1080
+14:53:43.865: 	downscale filter:  Area
+14:53:43.865: 	fps:               30/1
+14:53:43.865: 	format:            NV12
+14:53:43.865: 	YUV mode:          709/Partial
+14:53:43.865: NV12 texture support enabled
+14:53:43.874: Settings changed (outputs, video)
+14:53:43.874: ------------------------------------------------
+14:54:02.776: [AMF] <Id: 6> Unable to set converter transfer characteristic, error AMF_NOT_FOUND (code 11)
+14:54:02.884: [AMF] [H265]<Id: 6> Encoder Parameters:
+14:54:02.884: [AMF] [H265]<Id: 6>   Backend:
+14:54:02.884: [AMF] [H265]<Id: 6>     Video API: Direct3D 11
+14:54:02.884: [AMF] [H265]<Id: 6>     Video Adapter: Radeon RX 570 Series (VEN_1002/DEV_67df/SUB_23041458/REV_00ef)
+14:54:02.884: [AMF] [H265]<Id: 6>     OpenCL: Not Supported
+14:54:02.884: [AMF] [H265]<Id: 6>       Transfer: Disabled
+14:54:02.884: [AMF] [H265]<Id: 6>       Conversion: Disabled
+14:54:02.884: [AMF] [H265]<Id: 6>     Multi-Threading: Disabled
+14:54:02.884: [AMF] [H265]<Id: 6>     Queue Size: 8
+14:54:02.884: [AMF] [H265]<Id: 6>   Frame:
+14:54:02.884: [AMF] [H265]<Id: 6>     Format: NV12 709 Partial
+14:54:02.884: [AMF] [H265]<Id: 6>     Resolution: 1920x1080
+14:54:02.884: [AMF] [H265]<Id: 6>     Frame Rate: 30/1
+14:54:02.884: [AMF] [H265]<Id: 6>     Aspect Ratio: 1:1
+14:54:02.884: [AMF] [H265]<Id: 6>   Static:
+14:54:02.884: [AMF] [H265]<Id: 6>     Usage: Transcoding
+14:54:02.884: [AMF] [H265]<Id: 6>     Quality Preset: Balanced
+14:54:02.884: [AMF] [H265]<Id: 6>     Profile: Main 4.0
+14:54:02.884: [AMF] [H265]<Id: 6>     Tier: Main
+14:54:02.884: [AMF] [H265]<Id: 6>     Coding Type: Automatic
+14:54:02.884: [AMF] [H265]<Id: 6>     Max. Reference Frames: 1
+14:54:02.884: [AMF] [H265]<Id: 6>     Max. Long-Term Reference Frames: 0
+14:54:02.884: [AMF] [H265]<Id: 6>   Rate Control:
+14:54:02.884: [AMF] [H265]<Id: 6>     Method: Constant Bitrate
+14:54:02.884: [AMF] [H265]<Id: 6>     Pre-Pass Mode: Disabled
+14:54:02.884: [AMF] [H265]<Id: 6>     QP:
+14:54:02.884: [AMF] [H265]<Id: 6>       Ranges:
+14:54:02.884: [AMF] [H265]<Id: 6>         I-Frame: 18 - 51
+14:54:02.884: [AMF] [H265]<Id: 6>         P-Frame: 18 - 51
+14:54:02.884: [AMF] [H265]<Id: 6>       Fixed:
+14:54:02.884: [AMF] [H265]<Id: 6>         I-Frame: 26
+14:54:02.884: [AMF] [H265]<Id: 6>         P-Frame: 26
+14:54:02.884: [AMF] [H265]<Id: 6>     Bitrate:
+14:54:02.884: [AMF] [H265]<Id: 6>       Target: 3500000 bit/s
+14:54:02.884: [AMF] [H265]<Id: 6>       Peak: 3500000 bit/s
+14:54:02.884: [AMF] [H265]<Id: 6>     Flags:
+14:54:02.884: [AMF] [H265]<Id: 6>       Filler Data: Enabled
+14:54:02.884: [AMF] [H265]<Id: 6>       Frame Skipping: Disabled
+14:54:02.884: [AMF] [H265]<Id: 6>         Period: 0 Frames
+14:54:02.884: [AMF] [H265]<Id: 6>         Behaviour: Skip every Nth frame
+14:54:02.884: [AMF] [H265]<Id: 6>       Variance Based Adaptive Quantization: Disabled
+14:54:02.884: [AMF] [H265]<Id: 6>       Enforce Hypothetical Reference Decoder: Enabled
+14:54:02.884: [AMF] [H265]<Id: 6>     Video Buffering Verfier:
+14:54:02.884: [AMF] [H265]<Id: 6>       Buffer Size: 20000000 bits
+14:54:02.884: [AMF] [H265]<Id: 6>       Initial Fullness: 100 %
+14:54:02.884: [AMF] [H265]<Id: 6>     Max. Access Unit Size: 0
+14:54:02.884: [AMF] [H265]<Id: 6>   Picture Control:
+14:54:02.884: [AMF] [H265]<Id: 6>     Period:
+14:54:02.884: [AMF] [H265]<Id: 6>       IDR: 2 GOPs
+14:54:02.884: [AMF] [H265]<Id: 6>       I: 0 Frames
+14:54:02.884: [AMF] [H265]<Id: 6>       P: 0 Frames
+14:54:02.884: [AMF] [H265]<Id: 6>       B: 0 Frames
+14:54:02.884: [AMF] [H265]<Id: 6>     GOP:
+14:54:02.884: [AMF] [H265]<Id: 6>       Type: Fixed
+14:54:02.884: [AMF] [H265]<Id: 6>       Size: 30
+14:54:02.884: [AMF] [H265]<Id: 6>       Size Range: 0 - 16
+14:54:02.884: [AMF] [H265]<Id: 6>       Alignment: Enabled
+14:54:02.884: [AMF] [H265]<Id: 6>     Deblocking Filter: Enabled
+14:54:02.884: [AMF] [H265]<Id: 6>     Motion Estimation: Quarter, Half
+14:54:02.884: [AMF] [H265]<Id: 6>   Experimental:
+14:54:02.884: [AMF] [H265]<Id: 6>     Input Queue: 16
+14:54:02.884: ---------------------------------
+14:54:02.885: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: 3
+14:54:02.885: 
+14:54:02.905: ==== Recording Start ===============================================
+14:54:02.905: [ffmpeg muxer: 'adv_file_output'] Writing file 'D:/Captures/2021-01-28 14-54-02.mkv'...
+14:54:03.208: [AMF] <Id: 6> Initial Frame Latency is 258495300 nanoseconds.
+15:26:16.781: [AMF] <Id: 6> No output Packet, encoder is overloaded!
+15:26:16.825: [AMF] <Id: 6> No output Packet, encoder is overloaded!
+15:26:16.868: [AMF] <Id: 6> No output Packet, encoder is overloaded!
+15:26:16.913: [AMF] <Id: 6> No output Packet, encoder is overloaded!
+15:26:16.959: [AMF] <Id: 6> No output Packet, encoder is overloaded!
+15:26:16.996: [AMF] <Id: 6> No output Packet, encoder is overloaded!
+15:26:17.039: [AMF] <Id: 6> No output Packet, encoder is overloaded!
+15:26:17.079: [AMF] <Id: 6> No output Packet, encoder is overloaded!
+15:26:17.119: [AMF] <Id: 6> Input Queue is full, encoder is overloaded!
+15:26:17.119: [AMF] <Id: 6> No output Packet, encoder is overloaded!
+15:26:17.158: [AMF] <Id: 6> Input Queue is full, encoder is overloaded!
+15:26:17.158: [AMF] <Id: 6> No output Packet, encoder is overloaded!
+15:26:17.197: [AMF] <Id: 6> Input Queue is full, encoder is overloaded!
+15:26:17.197: [AMF] <Id: 6> No output Packet, encoder is overloaded!
+15:26:17.237: [AMF] <Id: 6> Input Queue is full, encoder is overloaded!
+15:26:17.237: [AMF] <Id: 6> No output Packet, encoder is overloaded!
+15:26:17.276: [AMF] <Id: 6> Input Queue is full, encoder is overloaded!
+15:26:17.276: [AMF] <Id: 6> No output Packet, encoder is overloaded!
+15:26:17.315: [AMF] <Id: 6> Input Queue is full, encoder is overloaded!
+15:26:17.315: [AMF] <Id: 6> No output Packet, encoder is overloaded!
+15:26:17.353: [AMF] <Id: 6> Input Queue is full, encoder is overloaded!
+15:26:17.353: [AMF] <Id: 6> No output Packet, encoder is overloaded!
+15:26:17.391: [AMF] <Id: 6> Input Queue is full, encoder is overloaded!
+15:26:17.391: [AMF] <Id: 6> No output Packet, encoder is overloaded!
+15:26:17.428: [AMF] <Id: 6> Input Queue is full, encoder is overloaded!
+15:26:17.428: [AMF] <Id: 6> No output Packet, encoder is overloaded!
+15:26:17.466: [AMF] <Id: 6> Input Queue is full, encoder is overloaded!
+15:26:17.467: [AMF] <Id: 6> No output Packet, encoder is overloaded!
+15:26:17.507: [AMF] <Id: 6> Input Queue is full, encoder is overloaded!
+15:26:17.507: [AMF] <Id: 6> No output Packet, encoder is overloaded!
+15:26:17.547: [AMF] <Id: 6> Input Queue is full, encoder is overloaded!
+16:06:57.797: Last log entry repeated for 59 more lines
+16:06:57.798: WASAPI: Device 'Headset ((name removed)’s AirPods Hands-Free AG Audio)' [8000 Hz] initialized
+16:06:57.802: User added source 'Audio Input Capture' (wasapi_input_capture) to scene 'Scene'
+16:07:01.756: WASAPI: Device 'Headset ((name removed)’s AirPods Hands-Free AG Audio)' Terminated
+16:07:01.769: WASAPI: Device 'Headset ((name removed)’s AirPods Hands-Free AG Audio)' [8000 Hz] initialized
+16:07:55.447: User Removed source 'Audio Input Capture' (wasapi_input_capture) from scene 'Scene'
+16:07:55.471: WASAPI: Device 'Headset ((name removed)’s AirPods Hands-Free AG Audio)' Terminated
+16:08:00.357: WASAPI: Device 'Headset ((name removed)’s AirPods Hands-Free AG Audio)' [8000 Hz] initialized
+16:08:00.361: User added source 'Audio Input Capture' (wasapi_input_capture) to scene 'Scene'
+16:08:03.301: WASAPI: Device 'Headset ((name removed)’s AirPods Hands-Free AG Audio)' Terminated
+16:08:03.342: WASAPI: Device 'Headset ((name removed)’s AirPods Hands-Free AG Audio)' [8000 Hz] initialized
+16:08:18.286: WASAPI: Device 'Headset ((name removed)’s AirPods Hands-Free AG Audio)' [8000 Hz] initialized
+16:08:18.289: User added source 'Audio Output Capture' (wasapi_output_capture) to scene 'Scene'
+16:08:25.742: WASAPI: Device 'Headset ((name removed)’s AirPods Hands-Free AG Audio)' Terminated
+16:08:25.782: WASAPI: Device 'Headphones ((name removed)’s AirPods Stereo)' [44100 Hz] initialized
+16:08:34.527: User Removed source 'Audio Output Capture' (wasapi_output_capture) from scene 'Scene'
+16:08:34.544: WASAPI: Device 'Headphones ((name removed)’s AirPods Stereo)' Terminated
+16:08:38.957: User Removed source 'Audio Input Capture' (wasapi_input_capture) from scene 'Scene'
+16:08:38.980: WASAPI: Device 'Headset ((name removed)’s AirPods Hands-Free AG Audio)' Terminated
+16:08:46.197: WASAPI: Device 'Headset ((name removed)’s AirPods Hands-Free AG Audio)' [8000 Hz] initialized
+16:08:46.201: User added source 'Audio Output Capture' (wasapi_output_capture) to scene 'Scene'
+16:08:50.551: WASAPI: Device 'Headset ((name removed)’s AirPods Hands-Free AG Audio)' Terminated
+16:08:50.567: WASAPI: Device 'Headset ((name removed)’s AirPods Hands-Free AG Audio)' [8000 Hz] initialized
+17:01:17.264: WASAPI: Device 'Headset ((name removed)’s AirPods Hands-Free AG Audio)' Terminated
+17:01:17.294: WASAPI: Device 'Headphones ((name removed)’s AirPods Stereo)' [44100 Hz] initialized
+17:05:51.360: WASAPI: Device 'Microphone (HD Web Camera)' Terminated
+17:05:51.496: WASAPI: Device 'Microphone (Realtek High Definition Audio)' [48000 Hz] initialized
+17:05:58.862: User Removed source 'TV output (poor)' (wasapi_output_capture) from scene 'Scene'
+17:06:16.805: [AMF] <Id: 7> Unable to set converter transfer characteristic, error AMF_NOT_FOUND (code 11)
+17:06:16.887: [AMF] <Id: 8> Unable to set converter transfer characteristic, error AMF_NOT_FOUND (code 11)
+17:06:37.908: output adv_file_output paused
+17:06:38.725: output adv_file_output unpaused
